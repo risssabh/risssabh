@@ -16,11 +16,9 @@
 ## 👨🏻‍💻 About Me
 
 - **Developer · Engineer · Freelancer**  
-- 🌍 Based in **Delhi, 🇮🇳 India (Bharat)**  
-  ![India Flag](https://img.shields.io/badge/-🇮🇳%20India-FF9933?style=flat-square)  
-- 🖥️ Portfolio: **[<span style="color:#CC2E5D">risssabh.github.io/Portfolio.in</span>](http://risssabh.github.io/Portfolio.in/)**  
-- ✉️ Reach me anytime: **[<span style="color:#CC2E5D">kumarsinghrishabh63@gmail.com</span>](mailto:kumarsinghrishabh63@gmail.com)**
-
+- 🌍 Based in ![saffron](https://img.shields.io/badge/-Delhi-FF9933?style=flat&labelColor=FF9933)  
+- 🖥️ Portfolio: [![Portfolio](https://img.shields.io/badge/risssabh.github.io%2FPortfolio.in-CC2E5D?style=flat&logo=google-chrome&logoColor=white)](http://risssabh.github.io/Portfolio.in/)  
+- ✉️ Reach me: [![Email](https://img.shields.io/badge/kumarsinghrishabh63@gmail.com-CC2E5D?style=flat&logo=gmail&logoColor=white)](mailto:kumarsinghrishabh63@gmail.com)
 
 ---
 
