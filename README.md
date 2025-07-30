@@ -68,7 +68,7 @@
 
 <div align="center">
   
-### 🔹 **[Project One](https://github.com/risssabh/project-one)**  
+### 🔹 **[Project One][(https://github.com/risssabh/project-one)](https://github.com/risssabh/ShoppyGlobe)**  
 > A modern web app built with **Next.js + Node.js** featuring real-time data.
 
 ![Project One](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=project-one&theme=radical&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)
