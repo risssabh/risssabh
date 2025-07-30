@@ -68,15 +68,15 @@
 
 <div align="center">
   
-### 🔹 **[Project One][(https://github.com/risssabh/project-one)]**  
-> A modern web app built with **Next.js + Node.js** featuring real-time data.
+### 🔹 **[Project One](https://github.com/risssabh/ShoppyGlobe)**  
+> 🛍️ ShoppyGlobe – A fast, modern e‑commerce app with **React, Vite & Redux**.
 
 ![Project One](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=project-one&theme=radical&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)
 
 ---
 
-### 🔹 **[Project Two](https://github.com/risssabh/project-two)**  
-> A full-stack application using **MongoDB, Express, React, and Node.js**.
+### 🔹 **[Project Two](https://github.com/risssabh/online-library)**  
+> A modern **React + Redux** online book library with categories, search, and modern design.
 
 ![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=project-two&theme=radical&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)
 
