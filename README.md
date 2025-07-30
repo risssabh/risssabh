@@ -76,7 +76,7 @@
 ---
 
 ### 🔹 **[Project Two](https://github.com/risssabh/online-library)**  
-> A modern **React + Redux** online book library with categories, search, and modern design.
+> 📚 Book Library  - A modern **React + Redux** online book library with categories, search, and modern design.
 
 ![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=project-two&theme=radical&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)
 
