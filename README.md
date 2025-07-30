@@ -2,13 +2,16 @@
   GitHub Profile README for: Rishabh Kumar Singh (risssabh)
 -->
 
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Rishabh+Kumar+Singh+%F0%9F%91%8B;Developer+.+Engineer+.+Freelancer;I+build+fast%2C+delightful+web+apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=720&lines=Hey+I'm+Rishabh+Kumar+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Engineer+%7C+Freelancer;I+build+awesome+web+experiences" alt="Typing animation" />
 </p>
 
+<!-- Enhanced Boy Graphic -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="180" alt="Coding animation" />
+  <img src="https://raw.githubusercontent.com/risssabh/risssabh/main/assets/coding-boy-cyan-pink.gif" alt="Coding Boy Animation" height="220" style="border:2px solid #CC2E5D; border-radius:20px; box-shadow:0 0 20px #00FFFF;">
 </p>
+
 
 ---
 
