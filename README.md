@@ -2,6 +2,7 @@
   GitHub Profile README for: Rishabh Kumar Singh (risssabh)
 -->
 
+<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00FFFF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Rishabh+Kumar+Singh+%F0%9F%91%8B;Developer+.+Engineer+.+Freelancer;I+build+fast%2C+delightful+web+apps" alt="Typing animation" />
 </p>
@@ -15,9 +16,9 @@
 ## 👨🏻‍💻 About Me
 
 - **Developer · Engineer · Freelancer**  
-- 🌍 Based in **India (Bharat)**  
-- 🖥️ Portfolio: **[risssabh.github.io/Portfolio.in](http://risssabh.github.io/Portfolio.in/)**  
-- ✉️ Reach me anytime: **kumarsinghrishabh63@gmail.com**
+- 🌍 Based in **<span style="color:#FF9933">India</span> <span style="color:#FFFFFF">(Bharat)</span> <span style="color:#138808">🇮🇳</span>**  
+- 🖥️ Portfolio: <a href="http://risssabh.github.io/Portfolio.in/" style="color:#CC2E5D">risssabh.github.io/Portfolio.in</a>  
+- ✉️ Reach me anytime: <a href="mailto:kumarsinghrishabh63@gmail.com" style="color:#CC2E5D">kumarsinghrishabh63@gmail.com</a>
 
 ---
 
