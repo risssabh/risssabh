@@ -9,9 +9,8 @@
 
 <!-- Enhanced Boy Graphic -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/risssabh/risssabh/main/assets/coding-boy-cyan-pink.gif" alt="Coding Boy Animation" height="220" style="border:2px solid #CC2E5D; border-radius:20px; box-shadow:0 0 20px #00FFFF;">
+  <img src="https://raw.githubusercontent.com/risssabh/risssabh/main/assets/coding-boy-cyan-pink.gif" alt="Coding Boy Animation" height="220" style="border:2px solid #CC2E5D; border-radius:20px; box-shadow:0 0 20px #00FFFF;" />
 </p>
-
 
 ---
 
@@ -99,4 +98,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=CC2E5D&section=footer" />
 </p>
-
