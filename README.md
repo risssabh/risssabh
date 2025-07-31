@@ -75,10 +75,10 @@
 
 ---
 
-### 🔹 **[Project Two](https://github.com/risssabh/online-library)**  
-> 📚 Book Library  - A modern **React + Redux** online book library with categories, search, and modern design.
+### 🔹 **[📚 Books Archives](https://github.com/risssabh/online-library)**  
+> 📚 Books Archives  - A modern **React + Redux** online book library with categories, search, and modern design.
 
-[![Online Book Library](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=online-library&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)](https://github.com/risssabh/online-library)
+[![Online Book Library](https://github-readme-stats.vercel.app/api/pin/?username=risssabh&repo=online-library&bg_color=000000&title_color=CC2E5D&text_color=00FFFF&icon_color=CC2E5D&hide_border=true)](https://github.com/risssabh/BooksArchives)
 
 </div>
 
